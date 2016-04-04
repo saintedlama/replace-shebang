@@ -1,0 +1,29 @@
+{
+  "name": "replace-shebang",
+  "version": "1.0.0",
+  "description": "Replaces the shebang by some string or nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saintedlama/replace-shebang.git"
+  },
+  "keywords": [
+    "shebang"
+  ],
+  "author": "Christoph Walcher <christoph.walcher@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saintedlama/replace-shebang/issues"
+  },
+  "homepage": "https://github.com/saintedlama/replace-shebang#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "shebang-regex": "^2.0.0"
+  }
+}
