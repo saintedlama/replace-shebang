@@ -21,7 +21,7 @@
   "homepage": "https://github.com/saintedlama/replace-shebang#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^2.4.5"
+    "mocha": "^3.1.0"
   },
   "dependencies": {
     "shebang-regex": "^2.0.0"
