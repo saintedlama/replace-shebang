@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/saintedlama/replace-shebang#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.0.1",
     "mocha": "^2.4.5"
   },
   "dependencies": {
